@@ -2,6 +2,11 @@
     <string name="app_name">NavigationSample</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="oneButton">OneFragment</string>
-    <string name="secondButton">SecondFragment</string>
+    <string name="name_input_text">名前を入力：</string>
+    <string name="firstButton">入力内容を確認</string>
+    <string name="secondButton">文字数を数える</string>
+    <string name="input_name_hint">山田 太郎</string>
+    <string name="character_count">文字数は。。。</string>
+    <string name="input_character">入力した文字は。。。</string>
+
 </resources>
